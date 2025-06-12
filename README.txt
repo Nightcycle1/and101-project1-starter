@@ -31,6 +31,8 @@ The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 
+Changed skin color of one of the default profile images
+
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
